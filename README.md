@@ -1,6 +1,6 @@
 # 2-dimensional bGPFADS (Test Only)
 
-The code implements the combination of (purely spherical) GPFADS (Rutten et al., 2020) and bGPFA (Jensen & Kao et al.,2021) but only within 2 dimensions. The code is based on bGPFA code from the paper (Jensen & Kao et al.,2021).
+The code implements the combination of (purely spherical) GPFADS (Rutten et al., 2020) and bGPFA (Jensen & Kao et al.,2021) but only within 2 dimensions. The code is based on bGPFA code from the paper (Jensen & Kao et al.,2021). To test bGPFADS, please use 1.py in mgplvm-pytorch or use the the jupyter notebook but set d_true and d_fit = 2.
 
 ###Below is the original README from bGPFA code
 
