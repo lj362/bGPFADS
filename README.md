@@ -1,6 +1,6 @@
 # 2-dimensional bGPFADS (Test Only)
 
-The code implements the combination of (purely spherical) GPFADS (Rutten et al., 2020) and bGPFA (Jensen & Kao et al.,2021) but only within 2 dimensions. The code is based on bGPFA code from the paper(Jensen & Kao et al.,2021).
+The code implements the combination of (purely spherical) GPFADS (Rutten et al., 2020) and bGPFA (Jensen & Kao et al.,2021) but only within 2 dimensions. The code is based on bGPFA code from the paper (Jensen & Kao et al.,2021).
 
 ###Below is the original README from bGPFA code
 
