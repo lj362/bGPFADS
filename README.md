@@ -1,4 +1,8 @@
-# Bayesian GPFA
+# 2-dimensional bGPFADS (Test Only)
+
+The code implements the combination of (purely spherical) GPFADS (Rutten et al., 2020) and bGPFA (Jensen & Kao et al.,2021) but only within 2 dimensions. The code is based on bGPFA code from the paper(Jensen & Kao et al.,2021).
+
+###Below is the original README from bGPFA code
 
 This directory contains the code accompanying ***Bayesian GPFA with automatic relevance determination and discrete noise models***.\
 The code is divided into three parts: _mgplvm-pytorch/_ which contains the python package implementing bGPFA, _analysis/_ which contains the code used to fit the model and analyze the data in the paper, and _figures/_ which contains the code used to generate the figures in the paper.
